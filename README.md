@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c12b662e-9539-47f5-814d-2d195f91dfa2" />
+
 # Revisão do básico de Python
 
 ## Implementações das atividades do livro "Curso Intensivo de Python", de Eric Matthes, a fim de aprendizado e revisão do básico de Python.
