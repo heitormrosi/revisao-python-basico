@@ -13,7 +13,7 @@
  1. Conceitos básicos
     1. [Iniciando](./1-conceitos-basicos/1-iniciando/1-iniciando.md)
     2. [Variáveis e tipos de dados simples](./1-conceitos-basicos/2-variaveis-e-tipos-de-dados-simples/2-variaveis-e-tipos-de-dados-simples.md)
-    3. [Introdução às listas](./1-conceitos-basicos/3-introducao-as-listas/)
+    3. [Introdução às listas](./1-conceitos-basicos/3-introducao-as-listas/3-introducao-as-listas.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp

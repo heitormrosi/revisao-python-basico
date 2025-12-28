@@ -95,6 +95,11 @@ cidades, idiomas ou qualquer outro item que quiser. Escreva um programa que
 crie uma lista contendo esses itens e então utilize cada função apresentada
 neste capítulo pelo menos uma vez.
 
+3.11 – Erro proposital: Se você ainda não recebeu um erro de índice em um de
+seus programas, tente fazer um erro desse tipo acontecer. Altere um índice em
+um de seus programas de modo a gerar um erro de índice. Não se esqueça de
+corrigir o erro antes de fechar o programa.
+
 # Respostas
 
 3.1. No arquivo ["names.py"](./names.py).
@@ -107,12 +112,14 @@ neste capítulo pelo menos uma vez.
 
 3.5. No arquivo ["changing_whitelist.py"](./changing_whitelist.py)
 
-3.6. No arquivo ["more_guests.py"](./more_guests.py)
+3.6. No arquivo ["more_guests.py"](./more_guests.py).
 
-3.7. No arquivo ["reducing_whitelist.py"](./reducing_whitelist.py)
+3.7. No arquivo ["reducing_whitelist.py"](./reducing_whitelist.py).
 
-3.8. No arquivo ["knowing_the_world.py"](./knowing_the_world.py)
+3.8. No arquivo ["knowing_the_world.py"](./knowing_the_world.py).
 
-3.9. No arquivo ["number_of_guests.py"](./number_of_guests.py)
+3.9. No arquivo ["number_of_guests.py"](./number_of_guests.py).
 
-3.10. No arquivo ["everything.py"](./everything.py)
+3.10. No arquivo ["everything.py"](./everything.py).
+
+3.11. No arquivo ["proposital_error.py"](./proposital_error.py).
