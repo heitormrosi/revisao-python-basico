@@ -3,7 +3,7 @@
 
 Arquivo relacionado à atividade 2.8 da parte 1.
 
-# Pergunta
+# Exercício
 
 2.8 – Número oito: Escreva operações de adição, subtração, multiplicação e
 divisão que resultem no número 8. Lembre-se de colocar suas operações em

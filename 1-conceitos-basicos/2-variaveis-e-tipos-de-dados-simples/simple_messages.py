@@ -3,7 +3,7 @@
 
 Arquivo relacionado à atividade 2.2. da parte 1.
 
-# Pergunta
+# Exercício
 
 2.2 – Mensagens simples: Armazene uma mensagem em uma variável e, em
 seguida, exiba essa mensagem. Então altere o valor de sua variável para uma

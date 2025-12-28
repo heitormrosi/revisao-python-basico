@@ -17,7 +17,7 @@ No Capítulo 3 aprenderemos a armazenar coleções de informações em
 variáveis chamadas listas. Veremos como percorrer uma lista,
 manipulando qualquer informação que ela tiver.
 
-# Perguntas
+# Exercícios
 
 Escreva um programa separado para resolver cada um destes exercícios. Salve
 cada programa com um nome de arquivo que siga as convenções-padrão de

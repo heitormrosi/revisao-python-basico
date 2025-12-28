@@ -3,7 +3,7 @@
 
 Arquivo relacionado à atividade 2.3 da parte 1.
 
-# Pergunta
+# Exercício
 
 2.3 – Mensagem pessoal: Armazene o nome de uma pessoa em uma variável e
 apresente uma mensagem a essa pessoa. Sua mensagem deve ser simples,

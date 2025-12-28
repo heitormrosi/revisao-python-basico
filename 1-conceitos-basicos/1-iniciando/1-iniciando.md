@@ -10,7 +10,7 @@ No próximo capítulo conheceremos diferentes tipos de dados com os
 quais podemos trabalhar em nossos programas Python e aprenderemos a
 usar variáveis também.
 
-# Perguntas
+# Exercícios
 
 1.1 – python.org: Explore a página inicial de Python (http://python.org/) para
 encontrar tópicos pelos quais você se interesse. À medida que tiver mais

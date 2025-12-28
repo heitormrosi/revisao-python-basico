@@ -3,7 +3,7 @@
 
 Arquivo relacionado à atividade 2.7 da parte 1.
 
-# Pergunta
+# Exercício
 
 2.7 – Removendo caracteres em branco de nomes: Armazene o nome de uma
 pessoa e inclua alguns caracteres em branco no início e no final do nome.

@@ -3,7 +3,7 @@
 
 Arquivo relacionado à atividade 2.6 da parte 1.
 
-# Pergunta
+# Exercício
 
 2.6 – Citação famosa 2: Repita o Exercício 2.5, porém, desta vez, armazene o
 nome da pessoa famosa em uma variável chamada famous_person. Em

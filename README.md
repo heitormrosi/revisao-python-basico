@@ -1,11 +1,11 @@
-![530576292-c12b662e-9539-47f5-814d-2d195f91dfa2](https://github.com/user-attachments/assets/47771dc0-b619-45e0-a171-5245cb7bc74f)
+![Capa do repositório][Capa do repositório]
 
 # Revisão do básico de Python
 
 ## Implementações das atividades do livro "Curso Intensivo de Python", de Eric Matthes, a fim de aprendizado e revisão do básico de Python.
 
 > O livro "Curso Intensivo de Python", escrito por Eric Matthes, oferece uma introdução prática e baseada em projetos à linguagem de programação Python. A obra é dividida em duas partes principais: a primeira aborda conceitos fundamentais, como variáveis, listas, dicionários, laços, funções, classes e testes de unidade. Na segunda metade, o leitor aplica esses conhecimentos no desenvolvimento de um jogo de tiro espacial, em tarefas de visualização de dados e na criação de uma aplicação web complexa com o framework Django. O material também inclui orientações técnicas sobre a instalação do ambiente em diversos sistemas operacionais e o uso de ferramentas como o Git. Adicionalmente, o texto apresenta recomendações de outros títulos da editora Novatec focados em segurança digital e carreira. Através de exemplos claros e exercícios guiados, o autor busca capacitar programadores iniciantes a escrever códigos eficientes e solucionar problemas reais.
-> * [Apresentação em PDF do livro.](./Python_A_Jornada_para_se_Tornar_um_Criador.pdf)
+> * [Apresentação em PDF do livro.][Apresentação em PDF do livro]
 > 
 > Gerado pelo NotebookLM
 
@@ -13,4 +13,8 @@
  1. Conceitos básicos
     1. [Iniciando](./1-conceitos-basicos/1-iniciando/1-iniciando.md)
     2. [Variáveis e tipos de dados simples](./1-conceitos-basicos/2-variaveis-e-tipos-de-dados-simples/2-variaveis-e-tipos-de-dados-simples.md)
+    3. [Introdução às listas](./1-conceitos-basicos/3-introducao-as-listas/)
     
+
+[Capa do repositório]: ./docs/capa-repo.webp
+[Apresentação em PDF do livro]: ./docs/Python_A_Jornada_para_se_Tornar_um_Criador.pdf

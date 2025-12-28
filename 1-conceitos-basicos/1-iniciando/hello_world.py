@@ -4,7 +4,7 @@
 Arquivo relacionado à atividade 1.2 da parte 1.
 (Vou utilizar \"\"\" para comentários de múltiplas linhas)
 
-# Pergunta
+# Exercício
 
 1.2 – Erros de digitação em Hello World: Abra o arquivo hello_world.py que
 você acabou de criar. Introduza um erro de digitação em algum ponto da linha

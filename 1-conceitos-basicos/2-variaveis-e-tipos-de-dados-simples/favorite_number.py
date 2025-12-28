@@ -3,7 +3,7 @@
 
 Arquivo relacionado à atividade 2.9 da parte 1.
 
-# Pergunta
+# Exercício
 
 2.9 – Número favorito: Armazene seu número favorito em uma variável. Em
 seguida, usando essa variável, crie uma mensagem que revele o seu número
