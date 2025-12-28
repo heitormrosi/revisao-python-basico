@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c12b662e-9539-47f5-814d-2d195f91dfa2" />
+![530576292-c12b662e-9539-47f5-814d-2d195f91dfa2](https://github.com/user-attachments/assets/47771dc0-b619-45e0-a171-5245cb7bc74f)
 
 # Revisão do básico de Python
 
