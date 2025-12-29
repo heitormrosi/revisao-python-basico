@@ -14,7 +14,16 @@
     1. [Iniciando](./1-conceitos-basicos/1-iniciando/1-iniciando.md)
     2. [Variáveis e tipos de dados simples](./1-conceitos-basicos/2-variaveis-e-tipos-de-dados-simples/2-variaveis-e-tipos-de-dados-simples.md)
     3. [Introdução às listas](./1-conceitos-basicos/3-introducao-as-listas/3-introducao-as-listas.md)
+    4. [Trabalhando com listas](./1-conceitos-basicos/4-trabalhando-com-listas/4-trabalhando-com-listas.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
 [Apresentação em PDF do livro]: ./docs/Python_A_Jornada_para_se_Tornar_um_Criador.pdf
+
+<!-- 
+    No futuro, vou mover o conteúdo desse repositório para um repositório só 
+    de Python, onde eu vou colocar os estudos de todos os livros de Python que 
+    eu quiser. Vou fazer isso também para outras linguagens de programação e 
+    juntar tudo em um único repositório de base de programação. Dessa forma,
+    posso evitar a síndrome do impostor.
+-->
