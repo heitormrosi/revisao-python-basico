@@ -1,5 +1,24 @@
 # Resumo
 
+Neste capítulo aprendemos a trabalhar de modo eficiente com os
+elementos de uma lista. Vimos como percorrer uma lista usando um laço
+for, como Python usa indentação para estruturar um programa e como
+evitar alguns erros comuns de indentação. Aprendemos a criar listas
+numéricas simples, além de conhecermos algumas operações que
+podem ser realizadas em listas numéricas. Aprendemos a fatiar uma lista
+para trabalhar com um subconjunto de itens e a copiar listas de modo
+adequado usando uma fatia. Também conhecemos as tuplas, que
+oferecem um nível de proteção a um conjunto de valores que não deve
+ser alterado, e aprendemos a estilizar seu código cada vez mais
+complexo para facilitar sua leitura.
+No Capítulo 5 veremos como responder de forma apropriada a
+diferentes condições usando instruções if. Aprenderemos a combinar
+conjuntos relativamente complexos de testes condicionais para
+responder de forma apropriada ao tipo de situação desejada ou oferecer
+informações que você esteja procurando. Também aprenderemos a usar
+instruções if enquanto percorremos uma lista para realizar ações
+específicas com elementos selecionados de uma lista.
+
 # Exercícios
 
 4.1 – Pizzas: Pense em pelo menos três tipos de pizzas favoritas. Armazene os
@@ -73,6 +92,29 @@ nova esteja armazenada na lista apropriada.
 laços for para fazer exibições a fim de economizar espaço. Escolha uma
 versão de foods.py e escreva dois laços for para exibir cada lista de comidas.
 
+4.13 – Buffet: Um restaurante do tipo buffet oferece apenas cinco tipos 
+básicos de comida. Pense em cinco pratos simples e armazene-os em uma tupla.
+• Use um laço for para exibir cada prato oferecido pelo restaurante.
+• Tente modificar um dos itens e cerifique-se de que Python rejeita a mudança.
+• O restaurante muda seu cardápio, substituindo dois dos itens com pratos
+diferentes. Acrescente um bloco de código que reescreva a tupla e, em
+seguida, use um laço for para exibir cada um dos itens do cardápio
+revisado.
+
+4.14 – PEP 8: Observe o guia de estilo da PEP 8 original em
+https://python.org/dev/peps/pep-0008/. Você não usará boa parte dele agora,
+mas pode ser interessante dar uma olhada.
+
+4.15 – Revisão de código: Escolha três programas que você escreveu neste
+capítulo e modifique-os para que estejam de acordo com a PEP 8: 
+• Use quatro espaços para cada nível de indentação. Configure seu editor de 
+texto para inserir quatro espaços sempre que a tecla TAB for usada, caso 
+ainda não tenha feito isso (consulte o Apêndice B para ver instruções sobre 
+como fazê-lo).
+• Use menos de 80 caracteres em cada linha e configure seu editor para que
+mostre uma linha vertical na posição do caractere de número 80.
+• Não use linhas em branco em demasia em seus arquivos de programa.
+
 # Respostas
 
 4.1. No arquivo ["pizzas.py"](./pizzas.py).
@@ -96,3 +138,12 @@ versão de foods.py e escreva dois laços for para exibir cada lista de comidas.
 4.10. No arquivo ["slices.py"](./slices.py).
 
 4.11. No arquivo ["my_pizzas_your_pizza.py"](./my_pizzas_your_pizza.py).
+
+4.12. Na verdade, eu usei laços for para imprimir dados na tela.
+
+4.13. No arquivo ["buffet.py"](./buffet.py).
+
+4.14. Feito e vou continuar aprendendo a convenção enquanto reviso.
+
+4.15. No VSCode, modifica-se settings.json para "editor.rules": [80]. Em 
+configurações, para os 4 espaços da identação pelo TAB.

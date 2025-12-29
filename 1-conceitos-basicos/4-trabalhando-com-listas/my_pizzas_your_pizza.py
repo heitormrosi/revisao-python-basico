@@ -33,3 +33,17 @@ for pizza_favorita in pizzas_favoritas:
 print("Eu realmente adoro pizza!")
 
 # END - Código do programa 4.1
+
+friend_pizzas = pizzas_favoritas[:]
+
+pizzas_favoritas.append("Nutella")
+
+friend_pizzas.append("Salame")
+
+print("Minhas pizzas favoritas são:")
+for pizza_favorita in pizzas_favoritas:
+    print(pizza_favorita)
+
+print("As pizzas favoritas de meu amigo são:")
+for friend_pizza in friend_pizzas:
+    print(friend_pizza)
