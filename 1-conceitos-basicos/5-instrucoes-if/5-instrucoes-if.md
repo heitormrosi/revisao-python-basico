@@ -1,5 +1,22 @@
 # Resumo
 
+Neste capítulo aprendemos a escrever testes condicionais, que são
+sempre avaliados como True ou False. Vimos como escrever instruções if
+simples, cadeias if-else e cadeias if-elif-else. Começamos a usar essas
+estruturas para identificar condições particulares que deviam ser testadas
+e aprendemos a reconhecer quando essas condições foram atendidas em
+nossos programas. Aprendemos a tratar determinados itens de uma lista
+de modo diferente de todos os demais itens, ao mesmo tempo que
+continuamos usando a eficiência do laço for. Também retomamos as
+recomendações de estilo de Python para garantir que seus programas
+cada vez mais complexos continuem relativamente fáceis de ler e de
+entender.
+No Capítulo 6 conheceremos os dicionários de Python. Um dicionário
+é semelhante a uma lista, mas permite conectar informações.
+Aprenderemos a criar dicionários, percorrê-los com laços e usá-los em
+conjunto com listas e instruções if. Conhecer os dicionários permitirá
+modelar uma variedade ainda maior de situações do mundo real.
+
 # Exercícios
 
 5.1 – Testes condicionais: Escreva uma série de testes condicionais. Exiba uma
@@ -116,6 +133,19 @@ língua termina com th, exceto 1, 2 e 3.
 para cada número ordinal. Sua saída deverá conter "1st 2nd 3rd 4th 5th
 6th 7th 8th 9th", e cada resultado deve estar em uma linha separada.
 
+5.12 – Estilizando instruções if: Revise os programas que você escreveu neste
+capítulo e certifique-se de que os testes condicionais foram estilizados de 
+forma apropriada.
+
+5.13 – Suas ideias: A essa altura, você é um programador mais capacitado do
+que era quando começou a ler este livro. Agora que você tem melhor noção de
+como situações do mundo real são modeladas em programas, talvez esteja
+pensando em alguns problemas que poderia resolver com seus próprios
+programas. Registre qualquer ideia nova que tiver sobre problemas que você
+queira resolver à medida que suas habilidades em programação continuam a
+melhorar. Considere jogos que você queira escrever, conjuntos de dados que
+possa querer explorar e aplicações web que gostaria de criar.
+
 # Respostas
 
 5.1. No arquivo ["conditional_tests.py"](./conditional_tests.py).
@@ -135,3 +165,18 @@ para cada número ordinal. Sua saída deverá conter "1st 2nd 3rd 4th 5th
 5.8. No arquivo ["hello_admin.py"](./hello_admin.py).
 
 5.9. No arquivo ["no_users.py"](./no_users.py).
+
+5.10. No arquivo ["verifying_usernames.py"](./verifying_usernames.py).
+
+5.11. No arquivo ["ordinal_numbers.py"](./ordinal_numbers.py).
+
+5.12. Feito.
+
+5.13. Eu gostaria de criar uma plataforma colaborativa escolar, assim como 
+outros sistemas escolares, mas me basear em ciência do aprendizado e construir 
+ferramentas melhores para professores e alunos. Além disso, integrar uma seção 
+para gestão de cultura olímpida dentro da instituição. É possível utilizar 
+inteligência artificial para automatizar tarefas chatas, como a criação de 
+atividades, provas, resumos de capítulos etc. Na verdade, qualquer professor ou
+aluno pode fazer isso se estudar sobre as IAs disponíveis, como o Gemini, o 
+NotebookLM e o futuro Learn Your Way.
