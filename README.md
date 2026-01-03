@@ -19,7 +19,8 @@
     2. [Variáveis e tipos de dados simples](./1-conceitos-basicos/2-variaveis-e-tipos-de-dados-simples/2-variaveis-e-tipos-de-dados-simples.md)
     3. [Introdução às listas](./1-conceitos-basicos/3-introducao-as-listas/3-introducao-as-listas.md)
     4. [Trabalhando com listas](./1-conceitos-basicos/4-trabalhando-com-listas/4-trabalhando-com-listas.md)
-    5. [Instruções if](./1-conceitos-basicos/5-instrucoes-if/)
+    5. [Instruções if](./1-conceitos-basicos/5-instrucoes-if/5-instrucoes-if.md)
+    6. [Dicionários](./1-conceitos-basicos/6-dicionarios/6-dicionarios.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
